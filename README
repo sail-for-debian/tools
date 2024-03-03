@@ -1,0 +1,8 @@
+# Dockerfile
+
+Usage: 
+
+```
+docker build -t sail-riscv .
+
+```
